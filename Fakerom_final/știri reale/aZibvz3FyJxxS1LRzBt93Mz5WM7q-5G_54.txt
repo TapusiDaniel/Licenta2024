@@ -1,0 +1,40 @@
+​Comisia Europeană a propus miercuri lansarea la nivelul întregii UE a unei rețele de centre de operațiuni de securitate, bazată pe inteligența artificială (IA), care să constituie un adevărat "scut de securitate cibernetică" capabil să detecteze semnele unui atac cibernetic suficient de devreme și să permită luarea de acțiuni proactive înainte de producerea unor daune. Aceasta este doar una dintre măsurile propuse în noua strategie de securitate cibernetică a UE. Vezi în articol propunerile legate de securitatea 5G și rolul pe care-l va juca noul centru de securitate cibernetică care se va deschide la București.
+
+Comisia Europeană a prezentat miercuri o nouă strategie privind securitatea cibernetică a Uniunii Europene
+
+, alături de câteva date importante legate de modul în care se dezvoltă societatea digitală la nivel mondial. Conform estimărilor prezentate de Bruxelles:- numărul dispozitivelor conectate la internet este așteptat să atingă cifra de 25 de miliarde de dispozitive până în anul 2025, un sfert din acestea în Europa
+
+- pandemia de COVID-19 a generat schimbări în modul de lucru - 40% din muncitorii din UE au trecut la telemuncă la începutul anului 2020
+
+- 2/5 din utilizatorii UE au întâmpinat probleme legate de securitate.
+
+- 1/8 din companii au fost afectate de atacuri cibernetice.
+
+- Costul anual al criminalității informatice pentru economia globală este estimat la 5,5 trilioane de euro până la sfârșitul anului 2020, dublu față de 2015.
+
+- Finanțarea UE în cadrul financiar multianual 2021-2027 s-ar putea ridica la 2 miliarde de euro în total, plus investițiile statelor membre și ale industriei.
+
+- Investițiile UE în proiecte digitale ar trebui să se ridice la cel puțin 20% - echivalentul a 134,5 miliarde de euro - din 672,5 miliarde euro din Programul de recuperare și reziliență.
+
+CITEȘTE AICI FIȘA INFORMATIVĂ PRIVIND NOUA STRATEGIE DE SECURITATE CIBERNETICĂ A UE
+
+Noua strategie cuprinde propuneri concrete de inițiative în materie de reglementare, de investiții și de politică în trei domenii de acțiune ale UE:1. Reziliență, suveranitate tehnologică și poziția de lider
+
+În cadrul acestei componente, Comisia propune reformarea normelor privind securitatea rețelelor și a sistemelor informatice în cadrul unei Directive privind măsuri pentru un nivel comun ridicat de securitate cibernetică în Uniune (Directiva NIS revizuită sau "NIS 2"), cu scopul de a întări reziliența cibernetică a sectoarelor publice și private critice: spitalele, rețelele energetice, căile ferate, dar și centrele de date, administrațiile publice, laboratoarele de cercetare și centrele care fabrică dispozitive medicale și medicamente critice, precum și alte infrastructuri și servicii critice trebuie să rămână impermeabile într-un mediu în care amenințările sunt din ce în ce mai complexe și evoluează rapid.Comisia propune, de asemenea, lansarea la nivelul întregii UE a unei rețele de centre de operațiuni de securitate, bazată pe inteligența artificială (IA), care să constituie un adevărat "scut de securitate cibernetică" pentru UE, capabil să detecteze semnele unui atac cibernetic suficient de devreme și să permită luarea de acțiuni proactive înainte de producerea unor daune. (...) 2. Consolidarea capacității operaționale de prevenire, descurajare și răspuns
+
+Comisia pregătește, printr-un proces progresiv și incluziv cu statele membre, crearea unei noi unități comune de securitate cibernetică; aceasta va consolida cooperarea dintre organismele UE și autoritățile statelor membre responsabile de prevenirea și descurajarea atacurilor cibernetice și de răspunsul la acestea, inclusiv comunitatea civilă, autoritățile de aplicare a legii, mediul diplomatic și entitățile de apărare cibernetică. (..)
+3. Investiții fără precedent în securitatea și tranziția digitală a UE și rolul Centrului care se va deschide la București
+
+UE se angajează să sprijine noua strategie de securitate cibernetică prin investiții fără precedent în tranziția digitală a UE în următorii șapte ani, cu ajutorul următorului buget pe termen lung al UE, în special prin programul Europa digitală și Orizont Europa, precum și prin Planul de redresare pentru Europa. Statele membre sunt așadar încurajate să utilizeze pe deplin mecanismul UE de redresare și reziliență pentru a spori securitatea cibernetică și pentru a reflecta nivelul investițiilor UE. Obiectivul este de a se ajunge la investiții combinate în valoare de până la 4,5 miliarde de euro
+ din partea UE, a statelor membre și a sectorului, în special în cadrul Centrului de competențe în materie de securitate cibernetică (n.a care va avea sediul la București)
+
+ și al Rețelei de centre de coordonare, și de a se asigura că IMM-urile beneficiază de o mare parte a acestor investiții.
+Asigurarea funcționării rețelelor de generație următoare: tehnologia 5G și tehnologii viitoare
+
+În cadrul noii strategii de securitate cibernetică, statele membre, cu sprijinul Comisiei și al ENISA (Agenția Uniunii Europene pentru Securitate Cibernetică), sunt încurajate să finalizeze implementarea setului de instrumente al UE în materie de 5G, care oferă o abordare cuprinzătoare și obiectivă bazată pe riscuri pentru securitatea rețelelor 5G și a generațiilor viitoare de rețele.Potrivit unui raport publicat miercuri, 16 decembrie 2020, 
+referitor la impactul Recomandării Comisiei privind securitatea cibernetică a rețelelor 5G și la stadiul implementării setului de instrumente al UE cuprinzând măsuri de atenuare, de la raportul din iulie 2020 privind progresele înregistrate, majoritatea statelor membre se află deja pe calea cea bună în ceea ce privește implementarea măsurilor recomandate. Acestea ar trebui acum să vizeze finalizarea implementării până în al doilea trimestru al anului 2021 și să se asigure că riscurile identificate sunt atenuate în mod corespunzător, în mod coordonat, în special în vederea reducerii la minimum a expunerii la furnizorii cu grad ridicat de risc și a evitării dependenței de acești furnizori.CITEȘTE AICI RAPORTUL PRIVIND IMPACTUL RECOMANDĂRII COMISIEI EUROPENE PRIVIND SECURITATEA CIBERNETICĂ A REȚELELOR 5G
+
+Etapele următoare
+Comisia Europeană și Înaltul Reprezentant s-au angajat să implementeze noua strategie de securitate cibernetică în lunile următoare.
+ Aceștia vor prezenta periodic rapoarte privind progresele înregistrate și vor asigura informarea deplină a Parlamentului European, a Consiliului Uniunii Europene și a părților interesate, precum și implicarea acestora în toate acțiunile relevante.În prezent, este de competența Parlamentului European și a Consiliului să examineze și să adopte propunerea de Directivă NIS 2 și Directiva privind reziliența entităților critice. Odată ce propunerile vor fi aprobate și adoptate în consecință, statele membre vor trebui să le transpună în termen de 18 luni de la intrarea lor în vigoare.
+Comisia va revizui periodic Directiva NIS 2 și Directiva privind reziliența entităților critice și va raporta cu privire la funcționarea acestora.

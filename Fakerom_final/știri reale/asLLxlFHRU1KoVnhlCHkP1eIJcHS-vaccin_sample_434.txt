@@ -1,0 +1,11 @@
+---Vaccin sample---
+Un nou vaccin cu nanoparticule aflat în dezvoltare în SUA pentru SARS-CoV-2, virusul care cauzează COVID-19, a prezentat rezultate promiţătoare în ceea ce priveşte protecţia şi imunitatea, stimulând în condiţii de siguranţă producţia de anticorpi şi răspunsuri ale celulelor T antivirale la exemplare de şoareci şi macaci, conform unui nou studiu preclinic publicat luni în jurnalul Science Translational Medicine şi citat de Xinhua.
+Vaccinul a generat răspunsuri imune după injectarea unei singure doze la şoareci – un obiectiv important pentru cercetători.
+Cu toate că sunt necesare mai multe cercetări pentru a se stabili gradul de protecţie oferit, el reprezintă un candidat promiţător pentru obţinerea unui vaccin, deosebit de necesar şi eficient, pentru COVID-19.
+Echipa de cercetători, condusă de Jesse Erasmus de la Departamentul de Microbiologie al Universităţii din Washington, Statele Unite, a dezvoltat un vaccin pentru SARS-CoV-2 pe bază de ARN replicant, molecule care tind să genereze răspunsuri imune mai puternice în comparaţie cu cele de ARN mesager, utilizate în alte vaccinuri.
+Vaccinul, numit repRNA-CoV2S, conţine molecule ARN replicant bazate pe secvenţe din proteina S (”spike”) a SARS-CoV-2 – care permite virusului să pătrundă în celulele umane – alături de o emulsie de nanoparticule care îmbunătăţeşte capacitatea imunogenă şi stabilitatea vaccinului.
+Cercetătorii au observat că o singură doză injectată a produs cantităţi mari de anticorpi împotriva SARS-CoV-2 la şoareci, iar adăugarea unei doze rapel a amplificat efectele vaccinului la rozătoarele mai în vârstă şi a generat răspunsuri imune puternice din partea celulelor T în splină şi plămâni.
+Atât abordările pe bază de doză unică, cât şi cele pe bază de rapel s-au dovedit sigure şi au produs răspunsuri similare la exemplare de macac cu coadă de porc, care au durat cel puţin 70 de zile, potrivit studiului.
+În plus, conform cercetării, anticorpii din organismul macacilor au neutralizat cantităţile de virus SARS-CoV-2 similare concentraţiilor observate în serul persoanelor care se recuperează după infecţie.
+Cercetătorii intenţionează să înceapă dezvoltarea clinică a vaccinului sub denumirea de HDT-301.
+Citește și: Un vaccin dezvoltat de Universitatea Oxford determină imunizarea față de Covid-19. Urmează un studiu clinic pe scară largă

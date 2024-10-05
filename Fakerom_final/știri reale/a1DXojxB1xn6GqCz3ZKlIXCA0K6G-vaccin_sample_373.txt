@@ -1,0 +1,32 @@
+---Vaccin sample---
+Două tipuri de celule din cavitatea nazală au fost identificate drept cele mai probabile puncte de intrare a coronavirusului în corpul uman, a concluzionat o echipă internaţională de cercetători, citată joi de Press Association.
+
+Oamenii de ştiinţă au descoperit că două tipuri de celule prezentau niveluri ridicate ale proteinelor de intrare pe care le foloseşte COVID-19 pentru a pătrunde în corpul uman.
+
+Potrivit specialiştilor, identificarea acestor celule ar putea explica rata mare de transmitere a acestui virus.
+
+În plus, cercetarea a demonstrat că celule din ochi şi din unele organe conţin, de asemenea, proteine de pătrundere virală.
+
+Conform unor studii anterioare, eşantioanele prelevate cu ajutorul tampoanelor speciale din nasul pacienţilor cu COVID-19, simptomatici sau asimptomatici, prezentau concentraţii virale mai mari în comparaţie cu cele prelevate din gât.
+
+Oamenii de ştiinţă au spus că rezultatele lor ar putea avea implicaţii în viitor pentru tratamentul şi prevenirea bolii.
+
+COVID-19, care a ucis peste 180.000 de vieţi în întreaga lume, afectează plămânii şi căile respiratorii.
+
+Simptomele pot fi asemănătoare cu cele ale gripei, printre acestea numărându-se febra, tusea şi durerile în gât, în timp ce unele persoane pot să nu prezinte simptome, fiind totuşi capabile să transmită virusul.
+
+În cele mai grave cazuri, virusul provoacă pneumonie, care poate duce la deces.
+
+Se crede că virusul se răspândeşte prin picături respiratorii eliminate când o persoană infectată tuşeşte, strănută sau vorbeşte.
+
+Oameni de ştiinţă din întreaga lume încearcă să înţeleagă modul exact în care se răspândeşte virusul pentru a ajuta la prevenirea transmiterii şi dezvoltarea unui vaccin.
+
+Doctor Waradon Sungnak, autor principal al studiului, de la Wellcome Sanger Institute, a spus: "Am descoperit că proteina receptor ACE2 şi proteaza TMPRSS2 care pot activa intrarea SARS-CoV-2 sunt exprimate în celule din diferite organe, inclusiv celule de pe mucoasa interioară a nasului. Am dezvăluit apoi că celulele ce secretă mucus şi celulele ciliate din nas prezentau cele mai ridicate niveluri ale ambelor proteine virale de COVID-19 dintre toate celulele din căile respiratorii. Acest lucru face ca aceste celule să fie cea mai probabilă cale iniţială de infecţie pentru acest virus".
+
+Doctor Martijn Nawijn de la Centrul Medical Universitar Groningen din Olanda, a declarat: "Este pentru prima dată când aceste celule din nas au fost asociate cu COVID-19. Deşi există numeroşi factori care contribuie la transmisibilitatea virusului, descoperirile noastre sunt în concordanţă cu ratele de infectare rapidă ale virusului, observate până în prezent. Localizarea acestor celule, pe suprafaţa internă a nasului le face foarte accesibile virusului şi, de asemenea, poate contribui la transmiterea către alte persoane".
+
+Cercetarea a fost realizată de Wellcome Sanger Institute, Centrul Medical Universitar Groningen, Universitatea Coasta de Azur şi Centrul Naţional Francez de Cercetări Ştiinţifice (CNRS) şi colaboratorii lor, în cadrul Atlasului Celular Uman (Human Cell Atlas) al Lung Biological Network.
+
+Raportată în Nature Medicine, analiza face parte dintr-un demers internaţional prin care se încearcă utilizarea datelor din Atlasul Celular Uman pentru a înţelege infecţia şi boala.
+
+Pentru a descoperi care celule ar putea fi implicate în transmiterea coronavirusului, cercetătorii au analizat mai multe seturi de date din Atlasul Celular Uman din peste de douăzeci de ţesuturi diferite de la persoane neinfectate. Ei au căutat să afle care celule individuale au exprimat ambele proteine de intrare esenţiale pe care COVID-19 le foloseşte pentru a infecta celulele umane. AGERPRES/(AS - autor: Dana Purgaru, editor: Mariana Ionescu, editor online: Simona Aruştei)

@@ -1,0 +1,54 @@
+---Vaccin sample---
+Sindromul de tromboză asociat cu trombocitopenie este o reacţie adversă extrem de rară după vaccinarea cu serul AstraZeneca. La nivel global au fost raportate 13 cazuri, apărute până în 14 zile după doza a doua, conform informațiilor transmise joi de către Comitetul de coordonare a vaccinării. Citiți în text ce este sindromul de tromboză asociat cu trombocitopenie și care sunt simptomele.
+
+În urma raportărilor privind reacția adversă extrem de rară - sindromul de tromboză asociat cu trombocitopenie (STT) - după vaccinare cu Vaxzevria (AstraZeneca), compania producătoare a continuat colectarea și analizarea datelor din sistemele de farmacovigilență, conform cerințelor organismelor de reglementare.
+În baza de date deținută de compania AstraZeneca (global safety database) au fost raportate la nivel global, până la 30.04.2021, 13 cazuri de sindrom de tromboză asociat cu trombocitopenie, apărute până în 14 zile de la administrarea cele de a doua doze, la persoane cu vârsta cuprinsă între 45-85 ani.
+Au fost luate în considerare cazurile din categoriile "evenimentelor embolice și trombotice" sau "trombocitopenie hematopoetică" sau "trombocitopenie", fără să se țină cont de existența anticorpilor anti-PF4 (markeri de STT).
+
+Simptome ale sindromului de tromboză asociat cu trombocitopenie
+
+Simptomele pot varia și includ adesea:
+dificultăți de respirație;
+durere în piept;
+umflarea picioarelor;
+durere abdominală puternică și persistentă;
+dureri de cap persistente;
+vedere încețoșată;
+pete mici de sânge sub piele, la distanță de locul administrării vaccinului.
+
+Rata incidenței în populația vaccinată calculată de companie
+
+Compania a calculat frecvența acestor reacții pe baza datelor puse la dispoziție de Centrul European de Prevenire și Control al Bolilor (ECDC) și Departamentul Afacerilor, Energiei și a Strategiei Industriale din Marea Britanie.
+Rezultatele au arătat că:
+incidența STT până în 14 zile de la administrarea dozei 1: 8,1/1.000.000;
+incidența STT până în 14 zile de la doza 2: 2.3/1.000.000.
+
+Raportările efectuate de către furnizorii serviciilor medicale au fost încadrate de către compania producătoare ca subraportări, iar mediatizarea intensă a acestei reacții rare ar fi putut duce și la cazuri clasificate eronat; prin urmare, calculele au fost realizate ținând cont de numărul cazurilor cu sindrom de tromboză asociat cu trombocitopenie globale, raportat la numărul dozelor administrare în EU/EEA și UK, transmite CNCAV.
+Rata incidenței în populația nevaccinată (anterior pandemiei)
+
+Folosind date disponibile pentru anul 2019, compania a calculat incidența bazală de STT din populația generală, nevaccinată, folosind două metode:
+3.75 cazuri/1.000.000 persoane (trombocitopenie apărută cu 7 zile anterior sau 7 zile după evenimentul trombotic);
+7.16 cazuri/1.000.000 persoane (trombocitopenie apărută cu 1 zi anterior sau 14 zile după evenimentul trombotic).
+
+Evaluări internaționale 
+
+Serviciul de Sănătate Publică din Marea Britanie a elaborat un ghid referitor la vaccinarea cu a 2-a doză de Vaxzevria (AstraZeneca), la sfârșitul lunii iunie 2021. În acest ghid este evidențiată incidența STT la persoanele cu vârstă < 50 de ani, astfel:
+STT după doza 1: 1 caz/50.000 (20 cazuri/1.000.000);
+STT după doza 2: sub 1/1.000.000, niciunul din aceste cazuri nu a fost confirmat.
+
+Concluziile evaluării
+
+Rezultatele evaluării confirmă faptul că, după efectuarea dozei 2, sindromul de tromboză asociat cu trombocitopenia (STT) este extrem de rar.
+Recomandarea pentru persoanele care au făcut doza 1 cu Vaxzevria (AstraZeneca) este continuarea schemei de vaccinare cu același tip de vaccin. Doar în cazurile de contraindicație pentru efectuarea rapelului cu vaccinul Vaxzevria (AstraZeneca) se recomandă continuarea schemei cu alt tip de vaccin, însă, la acest moment, nu poate fi evaluat profilul de siguranță.
+Sindromul de tromboză asociat cu trombocitopenie este o reacție adversă foarte rară, iar beneficiile vaccinării împotriva COVID-19 depășesc riscurile efectelor adverse, conform autorităților responsabile cu vaccinarea anti-COVID.
+Trebuie solicitată asistență medicală în cazul următoarelor simptome apărute după vaccinare
+:
+dificultăți de respirație;
+durere în piept;
+umflarea picioarelor;
+durere abdominală puternică și persistentă;
+dureri de cap persistente;
+vedere încețoșată;
+pete mici de sânge sub piele la distanță de locul administrării vaccinului.
+
+Se recomandă raportarea acestor reacții pe site-ul ANDMR (https://covid19.anm.ro/) și la medicul de familie sau medicul curant. De asemenea, persoanele vaccinate vor putea transmite fișa completată și prin poștă, fax sau e-mail către Agenția Națională a Medicamentului și Dispozitivelor Medicale din România (ANMDMR), la adresa: Str. Mr. Ștefan Sănătescu nr. 48, Sector 1, 011478, București, România; Fax: +40 21 316 34 97; E-mail: RA.vaccinare.covid@anm.ro). (Sursa: CNCAV)

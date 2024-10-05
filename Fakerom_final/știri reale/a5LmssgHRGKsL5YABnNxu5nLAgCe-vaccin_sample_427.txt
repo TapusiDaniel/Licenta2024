@@ -1,0 +1,49 @@
+---Vaccin sample---
+Cum funcționează vaccinurile pe bază de ARN mesager împotriva COVID-19? Conform specialiștilor, transportă informația genetică necesară pentru producerea proteinei Spike în organismul uman, iar sistemul imun recunoaște proteina ca fiind străină și declanșează răspunsul imun în urma căruia se produc anticorpi. Care ar fi avantajele unor astfel de vaccinuri? Pot fi dezvoltate într-un mod accelerat, nu presupun procese costisitoare și consumatoare de timp, precum cele convenționale, iar capacitatea ARN-ului mesager de a stimula răspunsul imun poate fi modificată pentru a asigura un profil de siguranță cât mai bun.
+
+Comitetul Național de Coordonare a Activităților privind Vaccinarea împotriva COVID-19 explică avantajele vaccinurilor pe bază de ARN mesager și cum funcționează 
+acestea.Vaccinurile urmăresc să:
+
+construiască imunitatea împotriva unei boli
+declanșeze un răspuns imun
+producă anticorpi și celule specifice care să recunoască patogenul țintă
+
+Până acum, vaccinurile au fost dezvoltate:
+
+din versiuni inactivate sau atenuate ale microorganismelor responsabile de producerea îmbolnăvirii
+din fragmente ale microorganismelor responsabile de producerea îmbolnăvirii
+din vectori virali
+
+Ce este ARN-ul mesager?
+Un transportor tranzitor al informației în organism
+
+Vaccinurile pe bază de ARN mesager:
+
+Deși nu au fost aprobate ca produse de uz uman până în prezent, sunt studiate de peste 10 ani.
+Sunt testate pe un număr de peste 1500 de voluntari, iar studiile derulate arată că au un profil de siguranță foarte bun.
+
+Avantajele vaccinurilor pe bază de ARN mesager:
+
+Vaccinurile pe bază de ARN mesager pot fi dezvoltate într-un mod accelerat. Nu presupun procese costisitoare și consumatoare de timp, precum cele convenționale
+Capacitatea ARN-ului mesager de a stimula răspunsul imun poate fi modificată pentru a asigura un profil de siguranță cât mai bun
+ARN-ul mesager este eliminat prin procese celulare normale într-o perioadă scurtă de timp
+Prezintă avantaje din punct de vedere al siguranței comparativ cu vaccinurile convenționale, întrucât conțin exclusiv elementele necesare producerii proteinei față de care se generează răspunsul imun
+Sunt lipsite de infecțiozitate
+Nu influențează informația genetică a persoanei vaccinate. Nu interacționează cu genomul uman ADN – nu se integrează în acesta
+
+Cercetătorii studiază coronavirusurile de peste 18 ani
+
+După identificarea SARS în 2002 și MERS în 2012, cercetătorii cunoșteau deja că proteina Spike este cea care poate declanșa un răspuns imun împotriva coronavirusurilor.
+Cercetătorii cunoșteau și mijloacele prin care ARN-ul mesager poate fi administrat fără să suprastimuleze sistemul imun.
+Este cunoscut faptul că ARN mesager are nevoie de un înveliș de lipide care să-l ajute să traverseze membrana celulară pentru a-și atinge ținta.
+
+Cum funcționează vaccinurile pe bază de ARN mesager împotriva COVID-19
+
+Transportă informația genetică necesară pentru producerea proteinei Spike în organismul uman.
+Sistemul imun recunoaște proteina ca fiind străină și declanșează răspunsul imun în urma căruia se produc anticorpi.
+Pentru a afecta organismul, coronavirusul are nevoie de peste 20 de proteine. Proteina Spike, conținută în vaccinul ARN mesager, nu poate declanșa boala.
+După producerea proteinei Spike, ARN-ul mesager care a transmis această informație este distrus și eliminat.
+
+Agenția Europeană a Medicamentului a anunțat data de 23 decembrie 2020 ca dată probabilă pentru acordarea autorizației condiționate de punere pe piață pentru primul vaccin împotriva COVID-19, cel produs de BioNTech și Pfizer. 
+Potrivit Comitetului Național de coordonare a activităților privind vaccinarea împotriva COVID-19, în România vaccinul va ajunge în perioada 26-31 decembrie, fiind vorba despre un lot simbolic de 10.000 de doze. Acestea vor fi alocate pentru vaccinarea personalului medical din cele 10 spitale de boli infecțioase aflate în prima linie în lupta cu COVID-19.
+În total, România a solicitat vaccin pentru imunizarea a 11 milioane de persoane, iar vaccinarea populației ar urma să înceapă din martie - aprilie. Vaccinul se administrează în 2 doze, la interval de 21 de zile.

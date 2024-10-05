@@ -1,0 +1,18 @@
+---Vaccin sample---
+O persoană care optează pentru mutarea de pe lista de așteptare a unui centru pe lista altui centru de vaccinare anti-COVID va ocupa următoarea poziție după persoanele deja înscrise. Cel care anulează rezervarea și apoi se înscrie din nou pe lista de așteptare își pierde locul și va fi așezat la finalul listei. 
+
+Comitetul de coordonare a vaccinării a transmis, joi seară, precizări privind modul de realizare a notificării persoanelor aflate pe listele de așteptare din platforma informatică dezvoltată de STS:
+Platforma de programare realizează notificarea persoanelor prin respectarea categoriei de populație prioritară stabilită prin Strategia de vaccinare, precum și a ordinii de înscriere pe listele de așteptare.
+Prioritatea de notificare a persoanelor aflate pe lista de așteptare este următoarea: 
+1. 75% - Populația cu grad ridicat de risc
+2. 25% - Persoanele care desfășoară activități esențiale
+3. Populația generală, în cazul în care rămân locuri neocupate
+
+Reprezentanții CNCAV susțin, referitor la notificarea persoanelor din etapa a treia a Strategiei, că platforma respectă în totalitate ordinea de înscriere pe listele de așteptare, nefiind aplicată o prioritizare suplimentară între subcategoriile III A, III B și III C.
+La înscrierea pe lista de așteptare, platforma asociază utilizatorului data și ora efectuării rezervării.
+O persoană care optează pentru mutarea de pe lista de așteptare a unui centru pe lista altui centru de vaccinare, va ocupa următoarea poziție după persoanele deja înscrise.
+O persoană care anulează rezervarea și apoi se înscrie din nou pe lista de așteptare își pierde locul și va fi așezată la finalul listei. 
+După primirea notificării prin SMS și e-mail privind posibilitatea de programare, beneficiarul trebuie să acceseze platforma informatică și să selecteze data și ora de vaccinare. La finalizarea cu succes a programării, aplicația generează recipisa cu datele de prezentare pentru administrarea dozelor.
+Listele de așteptare se activează în centrele de vaccinare în care nu mai sunt locuri disponibile. 
+Numărul de înscrieri realizate pentru fiecare centru, numărul de locuri disponibile și tipul vaccinului sunt afișate, de joi, în interfața de tip hartă din platforma ROVACCINARE
+.

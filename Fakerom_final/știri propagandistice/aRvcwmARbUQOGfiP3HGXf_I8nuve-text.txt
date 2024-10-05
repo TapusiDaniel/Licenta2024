@@ -1,0 +1,88 @@
+Coronavirusul este de fapt o armă biologică?
+Medicii care lucrează în prima linie a focarelor de coronavirus (Covid-19) au afirmat pentru cotidianul Taiwan Times că este posibil să fii reinfectat de virus, ceea ce în unele cazuri poate conduce la moarte subită.
+
+„Este foarte posibil să vă infectați a doua oară. Câteva persoane s-au vindecat după o primă infecţie, datorită activităţii propriului sistem imunitar, dar s-a constatat că medicamentele pe care le-au folosit le-au afectat țesutul cardiac, iar când astfel de persoane se reinfectează, aticorpii nu îi ajută şi ele pot să moară subit din cauza insuficienței cardiace.” Acesta este un mesaj transmis către Taiwan News de o rudă a unuia dintre medicii care locuiesc în Regatul Unit.
+
+Sursa a mai spus că virusul ne-a „dat peste cap pe toţi”, deoarece îşi poate ascunde simptomele până la 24 de zile.
+
+Această afirmație a fost făcută independent şi de medicul pneumolog chinez Zhong Nanshan, care a spus că perioada medie de incubație este de trei zile, dar pot trece şi doar o zi sau până la 24 de zile pentru a dezvolta simptome.
+
+De asemenea, sursa a spus că falsele teste negative pentru virus sunt destul de frecvente. „Poate păcăli trusa de testare – au fost cazuri în care scanarea CT arată că ambii plămâni sunt complet infectați, dar testul a revenit negativ de patru ori. Al cincilea test a fost pozitiv.” – Taiwan Times.
+
+Unul dintre modurile prin care coronavirusul păcăleşte sistemul imunitar este faptul că se atașează asemănător HIV de celulele albe din sânge, ceea ce declanșează o „furtună de citokine” în care sunt eliberate necontrolat citokine inflamatorii care „vizează diferite organe, ducând adesea la colapsul acestora și în multe cazuri chiar la moarte.”
+
+Furtuna de citokine este cel mai bine exemplificată de infecțiile pulmonare severe, în care inflamația locală se revarsă în circulația sistemică, producând sepsis sistemic, caracterizat de hipotensiune arterială persistentă, hiper- sau hipotermie, leucocitoză sau leucopenie și de multe ori trombocitopenie.
+
+Pe lângă infecțiile pulmonare, furtuna de citokine poate fi o consecință a infecțiilor severe în tractul gastrointestinal, tractul urinar, sistemul nervos central, piele, spațiile articulare și altele. (Tisoncik și colab., Into the Eye of the Cytokine Storm, 2012)
+
+Potrivit studiului din 2012, „furtunile de citokine sunt asociate cu o mare varietate de boli infecțioase și neinfecţioase și au fost chiar consecința nefericită a încercărilor de intervenție terapeutică”.
+
+                            Cum intră coronavirusul în trup?
+În cazul SARS, provocat de un alt coronavirus, cercetătorii au descoperit că unul dintre modurile în care boala se instalează este printr-o enzimă cunoscută sub numele de ACE2, un „receptor funcțional” produs în mai multe organe (mucoasa orală și nazală, nasofaringe, plămân, stomac, intestin subțire, colon, piele, ganglioni limfatici, timus, măduvă osoasă, splină, ficat, rinichi și creier).
+
+ACE2 este, de asemenea „abundent prezentă la om în epiteliile plămânului și intestinului subțire, ceea ce ar putea oferi posibile căi de intrare pentru SARS-CoV”, în timp ce a fost observat și „în celulele endoteliale arteriale și venoase și celulele musculare netede arteriale”, ceea ce include şi inima.
+
+Acest aspect i-a determinat pe unii să speculeze că asiaticii, care au concentrații mai mari de ACE2 pot fi afectați într-o măsură mai mare decât europenii, care produc în cel mai mic procent această enzimă – și au fost în mare parte asimptomatici.
+
+Cu toate că mai multe cercetări cu privire la Covid-19 sunt urgent necesare – există deja o asemănare cu virusul SARS-CoV, astfel că știm că un coronavirus poate viza receptorii ACE2, care se găsesc în sistemul cardiovascular. Și sunt deja cazuri de reinfectare cu Covid-19 în care pacienţii apoi se prăbușesc brusc, suferind atac de cord sau daune neurologice majore. Deci virusul poate reinfecta pacienții și poate provoca furtuni de citokine și moarte subită – reacţii posibil exacerbate de intervenția terapeutică.
+
+Doctorul Robert Redfield spune că acest virus va deveni larg răspândit pe teritoriul Statelor Unite „anul acesta sau următorul”, de aceea studierea coronavirusului este de o importanță vitală pentru a înțelege exact cum funcționează Covid-19. Acest aspect ar necesita cooperarea între cercetătorii din China și o echipă CDC trimisă la fața locului, în epicentrul epidemiei. Totuși, din anumite motive necunoscute, China încă refuză să acorde oamenilor de știință americani acces la zona zero.
+  Date despre trusele care testează prezenţa virusului Covid-19
+Au o rată de eroare de 50-70%;
+2.Testele au fost folosite în China în urma unui studiu de 5 ore, când în mod normal necesită studii îndelungate;
+
+3.Trusele pot agrava pandemia, permițând persoanelor infectate să scape de identificare.
+
+Președintele Academiei Chineze de Științe Medicale a scos pe piaţă în grabă noi kituri de teste coronavirus, care sunt folosite în întreaga zonă asiatică, exactitatea acestora fiind între 30 și 50%, relatează SCMP.com.
+Aceasta înseamnă că kiturile de test au o rată de eroare de 50-70%, prin raportarea inexactă a eșantioanelor ca fiind negative.
+
+Suplimentar faţă de problemele cu noile truse de testare, Li Yan, șeful centrului de diagnostic de la Spitalul Poporului din Universitatea Wuhan, a explicat, de asemenea, că procesul în mai multe etape de pregătire a eșantioanelor și testarea acestora este predispus la erori umane, provocând greșeli suplimentare.
+
+„Un pacient de la Spitalul prieteniei China-Japonia a ieşit negativ la teste de trei ori, dar a fost confirmat cu infecție cu coronavirus după ce i s-a prelevat o probă de lichid din interiorul plămânilor”, relatează SCMP. Rapoarte confirmate din multe alte surse informează despre persoane care inițial au fost negativ teste, iar ulterior au fost confirmate ca fiind pozitive pentru coronavirus.
+
+Noile truse de teste produse de companiile de biotehnologie Sansure Biotech, Shanhai BioGerm și Shanghai Huirui Biotechnology, obțin rezultate în câteva ore, mult prea repede comparativ cu perioada necesară de trei zile pentru testarea genetică tipică la instalațiile de laborator centralizate. De aceea, testele dau 50-70% erori, şi pot contribui de fapt la un număr mare de cazuri ratate, inclusiv „purtători de simptome” care continuă să funcționeze ca „super-purtători” care pot infecta zeci sau sute de alți oameni.
+
+„Lipsa kiturilor de testare și inexactitățile tehnice ale acestora au agravat situația, ceea ce sugerează că ar putea exista mult mai multe infecții decât indică cifrele oficiale”, relatează SCMP.
+
+                        Situaţia actuală a Chinei
+Chiar și acum Xi Jinping încearcă să rescrie istoria, susținând că a răspuns cu rapiditate crizei. Minciuna conform căreia coronavirusul a apărut în mod natural pe o piață alimentară și animală din Wuhan, continuă să fie susţinută de mass-media, chiar dacă dovezile infirmă această teorie. China continuă să afişeze numere nereale de persoane decedate și infectate, în timp ce au peste 600 de milioane de oameni în condiții de carantină, blocaţi în propriile case, cu bare groase de fier sudate la intrare, conform legii marțiale militare care s-a instalat în China. Medicii sunt doar din cadrul armatei, după ce cadrele medicale din spitale s-au infectat; conform statisticilor expuse de statul chinez, în jur de 2000 de personal medical a fost infectat şi numărul de morţi din rândurile lor nu se cunoaşte public.
+
+Li Wenliang, directorul spitalului din Wuhan, a fost pedepsit de guvern pentru avertismentul curajos despre virus pe care l-a dat în luna decembrie; el a murit încercând să lupte împotriva sistemului centralizat, doar pentru a obține şi a da informații vitale lumii. De fapt, există ştiri care anunţă că toţi cei care erau ostili statului chinez, cum sunt anumite grupări creştine, musulmane, cu această ocazie sunt eradicate şi dispar foarte usor. Statisticile arată că în închisori există cea mai mare rată de mortalitate… şi ştim de ce este aşa.
+
+Mesajul vehiculat către poporul chinez este clar: „Taci și acceptă că centralizarea funcționează pentru tine şi are răspuns la toate problemele”.
+
+                   Modelele matematice de prognoză la Los Alamos
+Ca și în cazul prognozei meteo, cercetătorii folosesc ecuații matematice pentru a estima traseul focarului de boală.
+
+„An de an, au fost îmbunătățite modelele de prognoză și modul în care acestea sunt combinate pentru a oferi prognoze”, a spus fizicianul Alessandro Vespignani de la Universitatea Northeastern. Variabilele cheie ale majorității modelelor sunt, în mare parte, aceleași pe care le-au folosit epidemiologii de zeci de ani pentru a prezice cursul focarelor. Dar, cu puterea mai mare a computerelor de mare performanţă, acum au la dispoziție date mai exacte, pentru a reflecta mai bine realitatea modului în care oamenii își trăiesc viața și interacționează în lume. Aceste modele mai detaliate pot avea nevoie de săptămâni pentru a ajunge la o concluzie, însă pot informa mai bine oficialii din sănătatea publică cu privire la impactul posibil al măsurilor de combatere a bolilor.
+
+Ideea este de a calcula numeroase aspecte: Dacă școlile și locurile de muncă sunt închise? Ce se petrece dacă tranzitul public se oprește? Ce se petrece dacă ar exista un vaccin 90% eficient și jumătate din populație l-a primit într-o lună?
+
+„Obiectivul nostru general este de a reduce răspândirea și povara bolilor infecțioase”, a spus Sara Del Valle, matematician la Laboratorul Național Los Alamos. Calculând efectele contramăsurilor, cum ar fi izolarea socială, interdicțiile de călătorie, vaccinarea și folosirea măștilor de față, modelatorii pot „înțelege ce se petrece și să informeze factorii de decizie”.
+
+De exemplu, deși multe măști pentru față sunt prea poroase pentru a opri particulele virale să pătrundă la nivelul căilor respiratorii, mesajul lor, spun cercetătorii, este „Menține oamenii departe de tine” și astfel contribuie la reducea răspândirii bolilor, a spus Del Valle.
+
+Cel mai clar semn al progresului în modelare provine din prognozele gripei în Statele Unite în fiecare an – aproximativ două duzini de laboratoare încearcă să modeleze sezonul gripei și s-au apropiat din ce în ce mai mult de prognozarea cu exactitate a calendarului, vârfului și intensității pe termen scurt. Centrele americane pentru controlul și prevenirea bolilor determină ce model a fost cel mai probabil. Pentru anii 2018-2019, prognozele cele mai exacte au fost realizate de institutul din Los Alamos.
+
+La Los Alamos s-a prognozat cu exactitate cursul izbucnirii SARS din 2003 în Toronto. „Și s-a estimat numărul de persoane care ar fi infectate”, a spus Del Valle: puțin sub 400 în oraș, cu un total global de aproximativ 8.000 de cazuri.
+
+Modelele Covid-19 „merg destul de bine, în ciuda multor dinamici complicate pe teren”, au declarat cei de la Los Alamos. Deși nu este clar încă dacă China a raportat numărul real de cazuri, cercetătorii de la Los Alamos au constatat că există o creştere exponențială a cazurilor de infecţii cu acest virus în timp – numărul de cazuri crește foarte repede cu cât există mai multe cazuri.
+Tendinţele economice – ne îndreptăm cu paşi repezi spre o recesiune uriaşă spun marea majoritate a publicaţiilor din lume
+Când economia Chinei se oprește, economia SUA pierde aproape 20% din lanțul său de aprovizionare. Când Japonia, Singapore, Taiwan, Hong Kong și Vietnam s-au oprit din cauza virusului, puteți adăuga încă 10% până la 15% în plus. Retailerii din SUA reprezintă aproximativ 70% din PIB. Întrerupeți lanțul de aprovizionare din Asia, iar retailerii pierd o gamă vastă de bunuri de vândut. În cele din urmă, economiile se opresc, chiar dacă virusul nu se mai răspândește. Sistemul economic este atât de globalizat încât căderea pieselor de domino chineze va face să cadă în cele din urmă propriile piese de domino.
+
+În cel mai bun caz doar lanțul de aprovizionare economică suferă dezavantaje majore. Economia globală se prăbușea deja în ultimul an din cauza nivelurilor istorice ale datoriilor corporative și ale consumatorilor. Instituțiile globaliste, precum FMI, intervin și sugerează că sistemele monetare naționale fragile intră în scenă pentru a atenua criza datoriilor. În esență, acesta este primul pas către guvernarea globală. Instituția sugerează apoi eliminarea din sistem a banilor de hârtie, deoarece este un mijloc de răspândire a virusului. China împinge deja această soluție. Instaurarea unei societăţi fără numerar este o chestiune de un an sau doi; ceea ce cereau globaliştii de ani buni. Totul merge digital și astfel chiar și economiile locale devin complet centralizate pe măsură ce comerțul privat moare.
+
+Cel mai rău scenariu: virusul se răspândește în întreaga lume, iar guvernele răspund la fel ca guvernul Chinei – instituie legea marțială și cultura completă a lagărului de concentrare. Aceasta ar duce la război civil în SUA, deoarece mulți oameni deţin arme și vor împușca pe oricine încearcă să îi pună în lagărele de carantină.
+Soluţia autorităţilor este bineînţeles vaccinarea forţată globală, posibil combinată cu inteligenţă artificială, pentru că şi coronavirusul este smart.
+
+                                       Concluzii:
+Virusul este o armă biologica, dar numărul persoanelor infecte care mor este mic, teoretic se vorbeşte de 2%, în realitate se estimează 10% mortalitate care îi afectează mai ales pe cei cu sistemul imunitar foarte slab.
+Din anumite studii se ştie că 40% din bărbaţii din China sunt fumători şi de asemenea în această ţară există cel mai mare număr de diabetici de tip 2 din lume. Deci se poate vorbi de un sistem imunitar mult slăbit de aceşti factori. Isteria colectivă este mare şi indusă voit peste tot în lume, cu scopul evident de a genera şi a se justifica criza mondială pe care vor să o creeze, vaccinarea obligatorie şi eliminarea cash-ului (a banilor de hârtie) de pe piaţă, interzicerea pieţelor libere de vânzare a micilor întreprinzători.
+
+De exemplu, la noi în ţară directorul spitalului de boli infecţioase, Adrian Streinu-Cercel, a afirmat că după Italia urmăm noi şi că „vaccinarea ar fi necesară şi este prostie să ne opunem”… Apoi toate cotidianele au dezlănţuit o alarmă exagerată, astfel încât mulţi români, la fel ca italienii, au dat buzna şi au golit magazinele. Cu siguranţă isteria se va amplifica.
+
+Anumiţi cercetători din Iran vorbesc de o altă tulpină de coronavirus în această ţară, care este diferită de cea din China. Iranul a închis şcolile şi spitalele şi are deja 230 de spitale pregătite pentru coronavirus. Ţările vecine şi-au închis frontierele cu Iranul.
+
+Întrucât statisticile arată o creştere exponenţială a numărului de infectaţi şi faptul că virusul nu provoacă anticorpi, deci persoanele se pot reinfecta, există probabilitatea ca mortalitatea celor infectaţi să crească în întrega lume. De fapt, elitele au creat acest virus în acest fel tocmai pentru că ei îşi doresc cu disperare şi o depopulare a planetei. De asemenea, timpul foarte lung, chiar de 24-25 de zile de incubaţie în care persoana infectată nu are simptome dar este purtătoare de virus şi poate infecta alte persoane, face ca acest virus să fie extrem de periculos şi să se poată împrăştia foarte repede mai ales în zonele foarte dens populate.
+
+Profesorul epidemiolog Marc Lipsitch de la Harvard estimează că în până să fie eradicat virusul, 40-70% din populaţia planetei va fi infectată.

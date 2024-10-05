@@ -1,0 +1,48 @@
+Pandemia COVID-19 a creat un mediu special de care atacatorii cibernetici au profitat, în special din cauza lipsei de informații cu care ne confruntam toți, mai ales în luna martie 2020, când am semnalat public faptul că numărul și complexitatea atacurilor cibernetice a crescut, principalul subiect folosit de atacatori fiind un presupus tratament miraculos pentru COVID-19, a declarat joi, generalul Anton Rog, șeful Departamentului de securitate cibernetică CyberInt al SRI. 
+
+"Cel mai mare impact în România l-au avut atacurile cibernetice clasice, și mă refer aici la atacuri asupra clienților băncilor.
+ Ne-am confruntat cu o serie de înselăciuni, nu voi intra în detalii, dar din păcate au fost o serie de victime în România.
+
+În plus, ne-am confruntat cu valuri de campanii de ransomware.
+ Suntem obișnuiți să credem că atacurile de tip ransomware nu sunt așa sofisticate și complexe, dar realitatea a arătat că cel puțin în România ransomware-ul a devenit un fenomen din ce in ce mai important raportat la victime și pagubele produse prin pierderea ori criptarea datelor. 
+Principalele ținte
+, așa cum vă puteți imagina, au fost sistemul de sănătate, administrația centrală și locală, iar recent ne-am confruntat cu aceste atacuri și în mediul academic
+, unele instituții din acest domeniu fiind afectate de ransomware. De asta avem nevoie de crearea cât mai rapidă a Directoratului Național de Securitate Cibernetică.", a declarat joi Anton Rog, șeful Departamentului de securitate cibernetică CyberInt al SRI, în cadrul unei conferințe pe teme de securitate cibernetică organizate de CERT-RO.
+
+Ransomware-ul
+ este un software malițios care blochează accesul la fișierele stocate într-un sistem informatic, solicitând plata unei sume de bani în schimbul redobândirii accesului la acestea.Semnal de alarmă tras de Guvern: CERT-RO este în incapacitate de îndeplinire a atribuțiilor, iar crearea unui organism care să adreseze și securitatea 5G este blocată
+
+Prezent la eveniment, Marian Murguleț, secretar de stat și Chief Information Officer (CIO) în Guvern
+ a spus că "ne confruntăm cu o adevărată pandemie și în spațiul cibernetic, nu doar în domeniul sănătății publice, iar creșterea semnificativă a numărului și complexității atacurilor cibernetice necesită măsuri urgente la nivel național. Acesta a atenționat că CERT-RO, actuala autoritate civilă responsabilă la nivel național de securitatea cibernetică funcționează pe o legislație învechită și ar suferi cronic de lipsa resurselor care o fac incapabilă să-și indeplinească atribuțiile.Acesta este motivul pentru care Executivul a demarat proiectul creării prin Ordonanță de Urgență a unui nou organism, care să se ocupe inclusiv de securitatea 5G, organism numit Directoratul Național de Securitate Cibernetică, doar că procesul s-a blocat la nivel decizional.Redăm mai jos integral declarațiile lui Marian Murguleț, secretar de stat Tehnologia Informației - Chief Information Officer (CIO) în Guvern:
+Legat de dezvoltarea rețelelor 5G, statul român are datoria să analizeze impactul întârzierii implementării 5G raportat în primul rând la riscurile de securitate cibernetică.
+ Este evident că în contextul în care rețelele 5G și serviciile sau activitățile facilitate de acestea vor cunoaște o dezvoltare accentuată atât la nivel de echipamente hardware, cât și aplicații software, există riscul unei expuneri mai mari la atacuri cibernetice ce vor exploata vulnerabilitățile acestor noi tehnologii.
+Avem nevoie de actori și instituții ale statului care să aibă capabilitatea de a aborda provocările securității cibernetice 5G. Este un domeniu complet nou pe care statul român trebuie să îl controleze corespunzător și pe acest palier lucrăm de peste 5 luni la consolidarea, chiar transformarea uneia din instituțiile responsabile de securitatea cibernetică, și anume CERT-RO, în vederea creșterii și creării capabilităților statului în această zonă.
+
+Având în vedere relevanța strategică a rețelelor 5G este oportun ca riscurile și oportunitățile în acest dosar să răspundă inclusiv necesităților de siguranță națională. În context, România va opera cu criteriile de securitate pentru viitoarele măsuri agreate în plan european, EU 5G Toolbox,
+ iar la nivel transatlantic cu cele incluse în Memorandumul cu SUA cu privire la dezvoltarea tehnologiei 5G, care este o extensie a parteneriatului strategic în domeniul militar.
+
+Noi trebuie să ne asigurăm că tehnologiile implementate în România, inclusiv 5G, nu pot fi folosite niciodată împotriva intereselor statului român și ale aliaților săi în cadrul războiului hibrid ce include o componentă cibernetică. Iar pentru a ne asigura că aceste tehnologii sunt în controlul nostru este nevoie de măsuri concrete și nu este suficientă doar simpla promisiune a producătorilor.
+Orice nouă tehnologie s-a dovedit că are și vulnerabilități care pot fi exploatate de actori rău intenționați, caz în care acestea trebuie identificate corespunzător, iar măsurile de control luate trebuie verificate și aprobate de un organism competent al statului român.
+Ce face UE pe zona de apărare cibernetică?
+ Agenția europeană de securitate cibernetică (ENISA) a publicat chiar săptămâna aceasta raportul său anual care rezumă principalele amenințări cibernetice identificate în 2019 și 2020.
+Principala concluzie este că atacurile cibernetice devin din ce în ce mai sofisticate, mai intense și mai precis direcționate. Aceeași concluzie o avem și noi la nivel național. În perioada pandemiei am observat creșterea numărului, complexității și magnitudinii incidentelor de securitate cibernetică cu impact asupra mai multor actori esențiali ai statului, societății și economiei: spitale, ministere, agenții, bănci, școli, primării, IMM-uri ceea ce necesită luarea unor măsuri urgente și decisive.
+De asemenea UE a anunțat că ia măsuri ferme și urgente de consolidare a capacităților în materie de securitate cibernetică. Astfel, va actualiza legislația în domeniul securității cibernetice, va adopta o nouă strategie de securitate cibernetică până la sfârșitul anului 2020 și investește în cercetare și consolidarea capacităților în materie de securitate cibernetică precum și în sensibilizarea publicului cu privire la noile amenințări și tendințe cibernetice. Acțiuni similare sunt așteptate și de la alte state UE.
+Spre exemplu în luna august din acest an, Germania a decis înființarea unei noi agenții cyber la Leipzig, în plus față de cunoscuta agenție guvernamentală de securitate BSI, cu un buget de 350 de milioane de euro doar pe perioada 2021-2023.
+Ce facem noi în România? 
+Începând cu 1 iunie anul acesta, pentru prima dată în domeniul securității cibernetice la nivel de agenții civile s-au derulat eforturi semnificative pentru lansarea procesului de creare a Directoratului Național de Securitate Cibernetică.
+
+Evoluția forte rapidă și creșterea semnificativă a numărului de incidente de securitate cibernetică, justifică luarea unor măsuri urgente la nivel național.
+Ne confruntăm cu o adevărată pandemie și în spațiul cibernetic
+, nu doar în domeniul sănătății publice. CERT-RO este autoritatea civilă competentă la nivel național în domeniul securității cibernetice, care, vreau să trag un semnal de alarmă, funcționează în baza unei legislații diferite din 2011, suntem în 2020, și suferă cronic de o subdimensionare gravă a resurselor, fapt ce determină incapacitatea instituțională de a-și îndeplini atribuțiile legale.
+Calea pe care CERT-RO a recomandat-o Guvernului este cea a unei Ordonanțe de Urgență pentru crearea Directoratului Național pentru Securitate Cibernetică, ce va înlocui complet CERT-RO, dar care va păstra responsabilitățile și activele acestuia.
+
+Proiectul de OUG și Nota de fundamentare au fost elaborate în lunile iulie-august anul curent, prin contribuția directă a experților cyber din partea tuturor membrilor comitetului de coordonare al CERT-RO. Mai multe instituții ale statului cu competențe pe domeniul securității cibernetice au lucrat împreună la proiect.
+În perioada august-septembrie, proiectul de OUG și nota de fundamentare au fost revăzute în detaliu împreună cu experți juridici din mai multe instituții
+ pentru ca actul normativ propus spre legiferare să aibă coerență legislativă și să-și atingă scopul în integralitatea lui.
+La 21 septembrie, Secretariatul General al Guvernului (SGG) a aprobat documentele și le-a transmis spre avizare către ministerele și instituțiile cu acest rol.
+
+Politically correct (n.a corect dpdv politic) ar fi să spun că stadiul operaționalizării Directoratului este 'working progress' (n.a. în lucru), dar realitatea este că suntem într-un impas, fiind nevoie de voință politică de la cel mai înalt nivel pentru deblocarea OUG-ului de înființare a Directoratului cât mai curând posibil.
+
+Astăzi la un pic mai mult de o lună de la lansarea procesului de avizare, ne aflăm într-un impas creat de lipsa de înțelegere a urgenței și severității situației din partea unui număr foarte mic de factori de decizie.
+Riscurile nu așteaptă perioada de pandemie ne-a arătat că atacurile cibernetice s-au înmulțit și diversificat continuu, iar cei care amână operaționalizarea Directoratului este bine să știe că este foarte posibil să existe riscuri și consecințe severe în planul securității cibernetice naționale din cauza amânării deciziei de înființare a Directoratului.
+Securitatea cibernetică a României este un domeniu strategic care trebuie sprijinit, nu trebuie politizat și are nevoie de susținere și prioritate".

@@ -1,0 +1,32 @@
+Până la mijlocul lunii septembrie 2020, statele membre UE (și Regatul Unit) au atribuit, în medie, doar 27,5% din benzile radio "pionier" pentru tehnologia 5G, multe licitații fiind amânate din cauza pandemiei de COVID-19, atenționează vineri Comisia Europeană. Prin urmare, Executivul European a recomandat statelor UE, ca până la 30 martie 2021, să elaboreze o abordare comună în ceea ce privește implementarea tehnologiei 5G și să evite sau să reducă la minimum întârzierile în acordarea accesului la spectrul de frecvențe radio.
+
+"Codul european al comunicațiilor electronice și Decizia UHF stabilesc termene limită pentru autorizarea tuturor celor trei benzi pionier ale spectrului radio pentru rețelele fără fir 5G. Statele membre ar fi trebuit să aloce banda de 700 MHz până la sfârșitul lunii iunie 2020 și benzile de 3,6 GHz și 26 GHz până la sfârșitul anului 2020. Pentru a implementa în timp util rețelele 5G, statele membre ar trebui să evite sau să reducă la minimum orice întârziere în acordarea accesului operatorilor la spectrul radio. Până în prezent, 16 state membre au desemnat cel puțin o bandă de pionierat 5G.
+
+ O serie de licitații pentru atribuirea acestor benzi operatorilor au fost amânate din cauza pandemiei coronavirusului, iar unele au fost deja reprogramate și sunt așteptate până la sfârșitul anului 2020.
+", precizează vineri Comisia Europană.
+
+Drept urmare,
+ Executivul European a recomandat vineri statelor membre
+
+ să își unească eforturile în vederea elaborării, până la 30 martie 2021, a unei abordări comune, sub forma unui set de instrumente de bune practici
+ pentru instalarea în timp util a rețelelor fixe și mobile de foarte mare capacitate, inclusiv a rețelelor 5G. Aceste măsuri ar trebui să vizeze:
+să reducă costurile și să mărească viteza de instalare a rețelelor de foarte mare capacitate
+, în special prin eliminarea obstacolelor administrative inutile;
+să asigure accesul în timp util la spectrul de frecvențe radio 5G
+ și să încurajeze investițiile operatorilor în extinderea infrastructurii de rețea;
+să asigure un nivel mai ridicat de coordonare transfrontalieră
+ în ceea ce privește asignarea spectrului de frecvențe radio, pentru a sprijini serviciile 5G inovatoare, în special în sectorul industriei și al transporturilor.
+
+Recomandarea stabilește, de asemenea, orientări privind cele mai bune practici pentru asigurarea accesului în timp util la spectrul de frecvențe radio pentru tehnologia 5G, precum și pentru garantarea unei coordonări mai bune a asignării spectrului de frecvențe radio pentru aplicațiile transfrontaliere 5G. Acest lucru este deosebit de important deoarece ar permite mobilitatea conectată și automatizată, precum și digitalizarea industriei și fabricile inteligente.O mai bună coordonare transfrontalieră va contribui la asigurarea, până în 2025, a acoperirii neîntrerupte de către rețelele 5G a principalelor căi de transport ale Europei, în special a transportului rutier, feroviar și pe căile navigabile interioare. Recomandarea subliniază, de asemenea, necesitatea de a se garanta securitatea și reziliența rețelelor 5G. 
+Statele membre au colaborat cu Comisia și cu Agenția UE pentru Securitate Cibernetică (ENISA) în vederea elaborării unui set de instrumente format din măsuri și planuri de atenuare a riscurilor
+
+ menite să abordeze în mod eficace riscurile majore legate de rețelele 5G. Un raport privind progresele înregistrate a fost publicat în luna iulie.
+
+În România, acordarea licențelor 5G tocmai a fost amânată
+ pentru al doilea an consecutiv
+
+În România, Eduard Lovin, vicepreședinte al ANCOM, autoritatea care organizează licitația 5G, tocmai ce a anunțat în această săptămână că este imposibil să mai fie atribuite licențele 5G până la sfârșitul acestui an.Motivele eșecului sunt identice cu cele de anul trecut: lipsa unei Hotărâri de Guvern privind stabilirea prețurilor minime de pornire în licitație, precum și lipsa transpunerii în legislație a Memorandumului 5G cu SUA.
+Pentru detalii citește: Dublu eșec pentru licitația 5G în România: De ce este imposibil să se mai acorde licențele în acest an, ce pierde bugetul de stat și despre calitatea serviciilor 5G lansate anul trecut
+
+În plus, în calea licitației a mai apărut o problemă, dincolo de posibila excludere a Huawei: RCS&RDS a dat în judecată ANCOM și ar putea bloca licitația.Valentin Popoviciu, vicepreședintele RCS&RDS, a anunțat că liderul pieței de internet fix și TV a dat în judecată ANCOM, autoritatea care organizează licitația 5G din cauza unor benzi de frecvențe licitate. Mărul discordiei îl reprezintă banda de 3,5 GHz, cea mai vânată pentru noile servicii 5G, deoarece permite capacități mari de date și viteze mari de download la internet, fiind mai eficientă în zonele urbane.RCS&RDS are alocate încă din 2016 niște benzi de frecvențe în spectrul de bandă înaltă în 3,5 GHz și este nemulțumită de faptul că, atunci când se va încheia dreptul de utilizare, la 1 ianuarie 2026, ANCOM nu îi va prelungi automat acest drept de utilizare, ci va scoate din nou la licitație această resursă limitată a statului.
+Pentru detalii citește: Încă o problemă în implementarea 5G în România, dincolo de posibila excludere a Huawei: RCS&RDS a dat în judecată ANCOM și ar putea bloca licitația

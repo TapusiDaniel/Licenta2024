@@ -1,0 +1,64 @@
+Se stie dar nu s-a comunicat care este boala care provoaca simptomurile tip Covid-19 si exista si un tratament foarte eficate ieftin si la indemana tuturor Vitamina D3.
+S-a creat un vaccin ca sa nenoroceasca o lume intreaga(la propriu) fara a se avea in vedere boala si etiologia ei, lasand la o parte accidentele virale.
+
+Si dacă „SRA” ar explica Covid-19? 
+
+Jean-Marc Sabatier, director de cercetare la CNRS, doctor în biologie celulară și microbiologie, afiliat la Institutul de Neurofiziopatologie din Marsilia şi redactor-șef al Revistelor Științifice Internaționale: Coronavirusuri și Tulburări Infecțioase, dezvăluie această descoperire fundamentală pe care a făcut-o cu virologii din Wuhan (China) în martie 2020 (publicată în aprilie): „Bolile asemănătoare covid-19 apar în timpul disfuncției unui sistem hormonal/fiziologic omniprezent în corpul uman, numit sistemul SRA renină-angiotensină, chiar și în absența virusului SARS-Co-2.”
+
+-Jean-Michel Wendling(reporter): Ce anume ar produce responsabilitatea pentru COVID-19?
+
+Jean-Marc Sabatier(JMS): Sistemul de renină-angiotensină (SRA) este „realul” vinovat de COVID-19, și SARS-CoV-2 este uleiul care este pus pe foc. Într-adevăr, așa-numitele boli „COVID-19-like” pot apărea chiar și în absența virușilor, atunci când SRA s-a ambalat și lucrează prea mult. Până în martie 2020, identificasem analogiile extraordinare dintre consecințele infecției cu SARS-CoV-2 și cele ale unei defecțiuni a acestui sistem „cheie”. Aceste analogii au fost raportate într-o publicație științifică (acceptată în aprilie) (1), de asemenea, co-autor de dr. Emmanuelle Faucon și alți colaboratori ai mei, prof. Zhijian Cao și Yingliang Wu, directori ai Laboratorului de Virologie din Wuhan (China). Când este infectat cu SARS-CoV-2, se atașează la receptorul ECA2 (enzima de conversie a angiotensinei 2) al celulelor țintă, care degradează în mod normal angiotensina 2. Această fixare a SARS-CoV-2 la receptorul ECA2 previne degradarea normală a angiotensinei 2, ducând la o creștere a concentrației sale și la o supraactivare a țintei sale celulare, receptorul AT1R.
+
+Rep.: Despre ce este vorba?
+
+JMS: Receptorul AT1R supraactivat este foarte dăunător organismului uman prin furtuna foarte dăunătoare de citokine eliberate (TNF-alfa, interferon-gamma, interleukina-6, interleukina-1-beta etc.). Acești mediatori sunt la originea unei evoluții spre forme grave (sau chiar fatale) de COVID-19.
+
+Sistemul renin-angiotensină (SRA) (1.2) este un sistem hormonal/fiziologic „cheie” găsit în tot corpul uman și mai ales în plămâni, rinichi, intestine, inimă, creier, testicule, vase de sânge, precum și celule ale sistemului imunitar „înnăscut” (monocite circulante, macrofage, celule dendritice/celule care prezintă antigen, celule ucigașe naturale etc.). SRA controlează imunitatea „înnăscută” (răspuns „imediat” nespecific la agenți patogeni) și microbiota intestinală.
+
+COVID-19 fără viruși?
+
+Rep.: Care ar fi bolile tip „COVID-19” pentru care SRA ar fi responsabilă fără prezența virusului?
+
+JMS: SRA este responsabil pentru bolile tip „COVID-19” prin supraactivarea receptorului său „dăunător” AT1R (1). Acest receptor activat induce în principal vasoconstricție/hipertensiune arterială, inflamație, stres oxidativ, o scădere a monoxidului de azot, hipertrofie și fibroză de organe. Acest efect dăunător se reflectă în debutul potențial al simptomelor și bolilor, ar fi: hipertensiunea arterială, ateroscleroză, hipertrofie (inimă, vase de sânge), fibroză (inimă, plămâni, rinichi, ficat), insuficiență cardiacă, leziuni renale și pulmonare (inclusiv sindrom de detresă respiratorie acută și astm), anosmie (pierderea mirosului), agueusie (pierderea gustului), tulburări neurologice/tulburări de memorie, diaree, inflamații intestinale și vasculare, disfuncție de fluiditate, obezitate și acțiune asupra metabolismului glucozei (diabet), tromboză/coagulopatie, leziuni ale pielii și testicular (1,2,3,4). În plus, se pare că SRA „dereglementat” poate fi strâns legată de debutul tulburărilor neurologice, cancerelor și altor boli autoimune (scleroză multiplă, artrită reumatoidă etc.), prin acțiunile sale asupra sistemului nervos central, proliferarea și aderența celulară și imunitatea „înnăscută”.
+
+Cunoașterea aprofundată a implicațiilor fiziologice ale unui „ambalat” de SARS ajută în cele din urmă la descrierea, înțelegerea și anticiparea tuturor bolilor COVID-19 asociate cu infecția cu SARS-CoV-2.
+
+Vitamina D în centrul tuturor speranțelor
+Rep.: Ar putea acest sistem de renină-angiotensină (SRA), în felul său „dăunătoar”- ambalat, să fie tratat de droguri deja pe piață sau medicamente candidate?
+
+JMS: Da, COVID-19 boli (și simptome) ar putea fi contracarate sau chiar tratate de molecule capabile de a „opri” o supraactivare/ambalare a SRA. Mai multe molecule cunoscute sunt „frâne” de SRA supraactivat:
+– vitamina D (1,5,6),
+– dexametazona, un corticosteroid utilizat pe scară largă în forme avansate de COVID-19,
+– dar și unele produse de degradare a angiotensinei (angiotensină 1-7, angiotensină 1-9, alamandină, angiotensină A și, respectiv, angiotensină IV activă pe receptorii celulari masR, AT2R, MRGD, ECA2 și AT4R) (7.8).
+
+Printre aceste molecule, vitamina D este foarte importantă. Acesta poate fi administrata cu ușurință și are un cost redus. Este esențial la persoanele cu dizabilități (colecalciferol sau vitamina D3). O astfel de suplimentarea este necesară, în special în această perioadă de pandemie virală (5), și având în vedere deficitul de vitamina D / deficit de majoritate a populației.
+
+În Franța, conform studiului național Nutrition Health 2006-2007, prevalența deficitului de vitamina D arată că 79% dintre bărbați și 81% dintre femei au avut concentrația serică de calcidiol (o formă dozată în sânge de vitamina D hidroxilată de ficat) sub 75 nmol/l (pragul optim). Pentru 36% dintre bărbați și 49% dintre femei a fost mai mică de 50 nmol/l (deficit moderat) și mai mică de 25 nmol/l (deficit sever) pentru 4% dintre bărbați și 6% dintre femei.
+
+În 2019, GRIO (Grupul de Cercetare și Informare osteoporoză) propune pacienților cu risc, după administrarea ratei inițiale, un regim de 50.000 UI de vitamina D (colecalciferol) pe săptămână timp de 4 până la 8 săptămâni, în funcție de deficit. Această perioadă de „reîncărcare” rapidă ar putea fi urmată de un tratament pe termen lung la 50.000 UI/lună, a cărei eficacitate va fi verificată după 3 până la 6 luni. Această doză suplimentară de calcidiol este necesară din cauza variabilității inter-individuale foarte mari în elevația calcidiol după administrarea unei doze date de vitamina D3, unii pacienți ridicând concentrația de calcidiol foarte puțin, în timp ce în altele, creșterea este foarte semnificativă. Intoxicație cu vitamina D este rară, dar poate fi cauzată de suplimentarea zilnică la doze prea mari. Potrivit Academiei Naționale de Medicină, intoxicația cu vitamina D nu este asociată cu concentrații de calcidiol sub 250 nmol/l, lăsând o marjă extrem de mare între pragul optim (75 nmol/l) și riscul de supradozaj.
+
+Prin urmare, vitamina D inhibă SRA supraactivată/ambalata prin inhibarea secreției de renină de către rinichi. De asemenea, reglează expresia a 291 de gene (aproape 1000 de gene cu suplimentare mare), inclusiv gene de „înnăscută” și „adaptive / dobândite” imunitate. Acțiunea sa asupra corpului uman este foarte benefică și permite o bună funcționare a sistemului imunitar pentru a lupta împotriva diferiților agenți patogeni (induce producerea de compuși antimicrobieni specifici, inclusiv cathélicidină și defensină). Vitamina D previne progresia către forme severe de COVID-19 în timpul infecției cu SARS-CoV-2, reducând în același timp probabilitatea de a fi infectată și durata transportului viral (6).
+
+Academia de Medicină foarte devreme a recomandat (comunicat de presă din 22 mai 2020) suplimentarea cu vitamina D încă insuficient cunoscute până în prezent.
+
+Antihipertensive utile
+S-a demonstrat foarte recent că inhibitorii receptorilor ECA și blocantele/antagoniștii AT1R utilizați pentru tratarea hipertensiunii arteriale sunt, de asemenea, „frâne” eficiente ale SRA (1).
+
+Într-un studiu retrospectiv multi-centru publicat la 30 octombrie 2020, din 2.190 de pacienți adulți internați pentru COVID-19 confirmați în laborator în trei centre participante, progresia clinică, dispneea și oboseala au fost îmbunătățiți semnificativ la pacienții cu vârsta peste 65 de ani, care luau anti-hipertensori implicați în SRA. În plus, rezultatele clinice au fost îmbunătățite semnificativ (statistic) la pacienții care au luat antihipertensive după ajustarea statistică bazată pe vârstă, sex, tensiunea arterială inițială și afecțiunile medicale coexistente (9).
+O echipă italiană a arătat, în concordanță cu activitatea noastră, că din 411 pacienți hipertensivi cu vârsta peste 68 de ani, inhibitorii/antagoniștii AT1R au fost asociați cu mortalitate mai mică de COVID-19, după ajustarea pentru 32 de variabile ale antecedentelor medicale (10).
+
+Molecule „noi” candidate
+
+Potrivit unui cercetător indian de la ICMR (Institutul Național pentru SIDA De Cercetare) și, de asemenea, în concordanță cu constatările noastre, agoniști receptorilor MasR au arătat, de asemenea, efecte de organe de protecție în mai multe studii pe animale. Cu toate acestea, acești agoniști nu au fost testați în studii clinice. Evaluarea lor la pacienții cu COVID-19 grav este recomandată de urgență de prof. Ashwini Shete pentru a reduce mortalitatea asociată cu infecția virală (8).
+
+Rep.: Doriți să adăugați unele informații specifice despre SRA la COVID-19?
+
+JMS: Da. S-a raportat că bărbații sunt statistic mai sensibili la SARS-CoV-2 decât femeile, copiii fiind mai puțin afectați decât adulții. Este interesant de observat că activitatea SRA (de exemplu, expresia ECA2) variază între bărbați și femei (acest sistem este purtat de cromozomul sexual X); de asemenea, variază foarte mult în funcție de vârstă, de la naștere până la moarte (copii față de adulți).
+
+Rep.: Această descoperire este o speranță uriașă pentru îngrijirea bolnavilor, vă mulțumesc Jean-Marc Sabatier!
+
+Interviu de Dr. Jean-Michel Wendling, Consilier Științific pentru infodujour.fr
+
+În ultima oră. Vitamina D este acum populara în comunitatea științifică, după cum reiese din acest articol intitulat Experții trimite o scrisoare deschisă cu privire la vitamina D și Covid-19 la guvernele din întreaga lume.
+
+ȘI, DE ASEMENEA, O META-ANALIZĂ PE ACEASTĂ TEMĂ
